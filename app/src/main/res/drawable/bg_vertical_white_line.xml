@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:right="@dimen/view_margin_50">
+        <shape android:shape="line">
+            <stroke android:width="@dimen/view_margin_1"
+                android:color="@color/color_white_ddffffff"/>
+        </shape>
+    </item>
+
+</layer-list>

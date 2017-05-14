@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="FullscreenTheme" parent="AppTheme">
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="LineEditText">
+        <item name="android:textSize">@dimen/text_size_14</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColorHint">@color/color_white_ddffffff</item>
+        <item name="android:background">@drawable/bg_line_edittext</item>
+        <item name="android:textColor">@color/color_white_ffffff</item>
+        <item name="android:layout_marginLeft">@dimen/view_margin_10</item>
+        <item name="android:layout_marginRight">@dimen/view_margin_10</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">@dimen/view_margin_20</item>
+        <item name="android:paddingTop">@dimen/view_margin_25</item>
+        <item name="android:layout_marginBottom">@dimen/view_margin_20</item>
+    </style>
+
+    <style name="RoundBlueBtn">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_18</item>
+        <item name="android:textColor">@color/color_white_ffffff</item>
+        <item name="android:paddingBottom">@dimen/view_margin_10</item>
+        <item name="android:paddingTop">@dimen/view_margin_10</item>
+        <item name="android:layout_marginLeft">@dimen/view_margin_10</item>
+        <item name="android:layout_marginRight">@dimen/view_margin_10</item>
+        <item name="android:background">@drawable/bg_round_blue_btn</item>
+    </style>
+
+    <style name="MainRadioButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:padding">@dimen/view_margin_5</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/text_size_13</item>
+    </style>
+
+</resources>

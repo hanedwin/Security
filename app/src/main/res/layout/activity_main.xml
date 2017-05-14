@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <com.example.administrator.security.common.widget.CustomViewPager
+        android:id="@+id/activity_main_cvp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/activity_main_rg"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_margin_50"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/activity_main_sos_rb"
+            style="@style/MainRadioButton"
+            android:text="@string/sos" />
+
+        <RadioButton
+            android:id="@+id/activity_main_friends_rb"
+            style="@style/MainRadioButton"
+            android:text="@string/friends" />
+
+        <RadioButton
+            android:id="@+id/activity_main_sight_rb"
+            style="@style/MainRadioButton"
+            android:text="@string/sight" />
+
+        <RadioButton
+            android:id="@+id/activity_main_message_rb"
+            style="@style/MainRadioButton"
+            android:text="@string/message" />
+
+        <RadioButton
+            android:id="@+id/activity_main_personal_rb"
+            style="@style/MainRadioButton"
+            android:text="@string/personal" />
+
+    </RadioGroup>
+
+</LinearLayout>

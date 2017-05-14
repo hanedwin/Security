@@ -1,0 +1,92 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_19">19sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+
+    <dimen name="view_margin_1">1dp</dimen>
+    <dimen name="view_margin_2">2dp</dimen>
+    <dimen name="view_margin_3">3dp</dimen>
+    <dimen name="view_margin_4">4dp</dimen>
+    <dimen name="view_margin_5">5dp</dimen>
+    <dimen name="view_margin_6">6dp</dimen>
+    <dimen name="view_margin_7">7dp</dimen>
+    <dimen name="view_margin_8">8dp</dimen>
+    <dimen name="view_margin_9">9dp</dimen>
+    <dimen name="view_margin_10">10dp</dimen>
+    <dimen name="view_margin_11">11dp</dimen>
+    <dimen name="view_margin_12">12dp</dimen>
+    <dimen name="view_margin_13">13dp</dimen>
+    <dimen name="view_margin_14">14dp</dimen>
+    <dimen name="view_margin_15">15dp</dimen>
+    <dimen name="view_margin_16">16dp</dimen>
+    <dimen name="view_margin_17">17dp</dimen>
+    <dimen name="view_margin_18">18dp</dimen>
+    <dimen name="view_margin_19">19dp</dimen>
+    <dimen name="view_margin_20">20dp</dimen>
+    <dimen name="view_margin_21">21dp</dimen>
+    <dimen name="view_margin_22">22dp</dimen>
+    <dimen name="view_margin_23">23dp</dimen>
+    <dimen name="view_margin_24">24dp</dimen>
+    <dimen name="view_margin_25">25dp</dimen>
+    <dimen name="view_margin_26">26dp</dimen>
+    <dimen name="view_margin_27">27dp</dimen>
+    <dimen name="view_margin_28">28dp</dimen>
+    <dimen name="view_margin_29">29dp</dimen>
+    <dimen name="view_margin_30">30dp</dimen>
+    <dimen name="view_margin_31">31dp</dimen>
+    <dimen name="view_margin_32">32dp</dimen>
+    <dimen name="view_margin_33">33dp</dimen>
+    <dimen name="view_margin_34">34dp</dimen>
+    <dimen name="view_margin_35">35dp</dimen>
+    <dimen name="view_margin_36">36dp</dimen>
+    <dimen name="view_margin_37">37dp</dimen>
+    <dimen name="view_margin_38">38dp</dimen>
+    <dimen name="view_margin_39">39dp</dimen>
+    <dimen name="view_margin_40">40dp</dimen>
+    <dimen name="view_margin_41">41dp</dimen>
+    <dimen name="view_margin_42">42dp</dimen>
+    <dimen name="view_margin_43">43dp</dimen>
+    <dimen name="view_margin_44">44dp</dimen>
+    <dimen name="view_margin_45">45dp</dimen>
+    <dimen name="view_margin_46">46dp</dimen>
+    <dimen name="view_margin_47">47dp</dimen>
+    <dimen name="view_margin_48">48dp</dimen>
+    <dimen name="view_margin_49">49dp</dimen>
+    <dimen name="view_margin_50">50dp</dimen>
+    <dimen name="view_margin_51">51dp</dimen>
+    <dimen name="view_margin_52">52dp</dimen>
+    <dimen name="view_margin_53">53dp</dimen>
+    <dimen name="view_margin_54">54dp</dimen>
+    <dimen name="view_margin_55">55dp</dimen>
+    <dimen name="view_margin_60">60dp</dimen>
+    <dimen name="view_margin_61">61dp</dimen>
+    <dimen name="view_margin_62">62dp</dimen>
+    <dimen name="view_margin_63">63dp</dimen>
+    <dimen name="view_margin_64">64dp</dimen>
+    <dimen name="view_margin_65">65dp</dimen>
+    <dimen name="view_margin_70">70dp</dimen>
+    <dimen name="view_margin_80">80dp</dimen>
+    <dimen name="view_margin_90">90dp</dimen>
+    <dimen name="view_margin_100">100dp</dimen>
+    <dimen name="view_margin_150">150dp</dimen>
+    <dimen name="view_margin_200">200dp</dimen>
+    <dimen name="view_margin_300">300dp</dimen>
+    <dimen name="view_margin_310">310dp</dimen>
+    <dimen name="view_margin_320">320dp</dimen>
+
+
+    
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/item_register_phone_et"
+        style="@style/LineEditText"
+        android:layout_marginTop="@dimen/view_margin_40"
+        android:hint="@string/phone_number" />
+
+    <EditText
+        android:id="@+id/item_register_password_et"
+        style="@style/LineEditText"
+        android:hint="@string/password" />
+
+    <EditText
+        android:id="@+id/item_register_confirm_password_et"
+        style="@style/LineEditText"
+        android:hint="@string/confirm_password" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/item_register_identifying_code_et"
+            style="@style/LineEditText"
+            android:layout_centerInParent="true"
+            android:hint="@string/identifying_code" />
+
+        <TextView
+            android:id="@+id/item_register_acquire_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:padding="@dimen/view_margin_10"
+            android:text="@string/acquire"
+            android:textColor="@color/color_white_ddffffff"
+            android:textSize="@dimen/text_size_14" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="@dimen/view_margin_35"
+            android:background="@color/color_white_ddffffff"
+            android:layout_toLeftOf="@id/item_register_acquire_code"/>
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/item_register_register_tv"
+        style="@style/RoundBlueBtn"
+        android:text="@string/register" />
+
+
+</LinearLayout>

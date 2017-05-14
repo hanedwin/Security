@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/item_login_account_et"
+        android:layout_marginTop="@dimen/view_margin_40"
+        style="@style/LineEditText"
+        android:hint="@string/account"/>
+
+    <EditText
+        android:id="@+id/item_login_password_et"
+        style="@style/LineEditText"
+        android:hint="@string/password"/>
+
+    <TextView
+        android:id="@+id/item_login_forget_password"
+        android:layout_marginTop="@dimen/view_margin_30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/view_margin_10"
+        android:text="@string/forget_password"
+        android:textColor="@color/color_white_ddffffff"/>
+
+    <TextView
+        style="@style/RoundBlueBtn"
+        android:text="@string/login"
+        android:id="@+id/item_login_login_tv"
+        android:layout_marginTop="@dimen/view_margin_15"/>
+
+</LinearLayout>
