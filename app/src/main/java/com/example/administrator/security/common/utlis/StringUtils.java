@@ -6,10 +6,6 @@ import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
 
 /**
- * description: 字符串操作
- * User: shaobing
- * Date: 2016/6/14
- * Time: 16:40
  */
 public class StringUtils
 {
